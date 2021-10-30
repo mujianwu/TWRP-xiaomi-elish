@@ -21,5 +21,5 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := elish
 PRODUCT_NAME := omni_elish
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := elish
+PRODUCT_MODEL := M2105K81AC
 PRODUCT_MANUFACTURER := xiaomi
